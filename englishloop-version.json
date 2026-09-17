@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
-  "url": "https://github.com/hakai0231/englishloop-release/releases/download/v5/englishloop.apk",
-  "notes": "질문 번역하기, 다음 문제 대기 단축, 답하지 않은 질문 저장"
+  "versionCode": 6,
+  "versionName": "0.3.0",
+  "url": "https://github.com/hakai0231/englishloop-release/releases/download/v6/englishloop.apk",
+  "notes": "답변 뒤 AI에게 추가 질문, 학습 달력"
 }
